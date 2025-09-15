@@ -1,2 +1,3 @@
 # anguilla-sim-guides
-Anguilla SIM/phone card guides
+
+全球通信 README（占位）
