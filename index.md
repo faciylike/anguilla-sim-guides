@@ -58,3 +58,10 @@ layout: default
 
 　　最后说个冷知识：安圭拉的区号是+1-264，和北美一样。这会不会让你感觉离家乡更近了一点呢？总之，准备好你的设备，设置好APN，然后就去尽情享受那片蔚蓝吧。通信无忧，旅程才能百分百投入。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Anguilla eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/anguilla-data-plans)
